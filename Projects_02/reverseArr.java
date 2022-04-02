@@ -15,10 +15,6 @@ public class reverseArr {
         Use Arrays.toString(your_array_name);
 
 
-     */
-
-
-    /*
 
           Verilen String array
 
