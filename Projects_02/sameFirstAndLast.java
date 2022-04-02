@@ -14,11 +14,6 @@ public class sameFirstAndLast {
 
     print just true or false
 
-    */
-
-
-    /*
-
     Bir int array verildiğinde, array uzunluğu 1 veya daha fazlaysa ve ilk öğe ile son öğe eşitse true değerini yazdırın.
 
     sameFirstLast([1, 2, 3]) → false
