@@ -13,10 +13,6 @@ public class sumTotal {
 
         return the double
 
-     */
-
-
-    /*
         String 2D array oluştur
 
        {{"$12" , "$22" , "5$"},{"€9" , "€40" , "$1" , "$2"}, {"€12"}}
