@@ -10,12 +10,7 @@ public class maxNumber {
 
         print the max number from the 2d array
 
-     */
-
-
-     /*
-
-         {{1,2,3}, {2,3,1} , {5,5,5} , {2,10,3}}
+          {{1,2,3}, {2,3,1} , {5,5,5} , {2,10,3}}
 
          int 2D arrayini  olustur
 

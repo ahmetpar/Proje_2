@@ -20,12 +20,8 @@ public class removeDuplicates {
 
         NOTE: while printing the result dont use for loop
         use System.out.println(Arrays.toString(your_array_name));
-     */
 
-
-    /*
        Verilen int array
-
 
        duplicated(tekrarlanan) öğeleri array den kaldır
 
