@@ -25,17 +25,16 @@ public class sameFirstAndLast {
 
     */
 
-    public static void main(String[] args) {
-
-        Scanner scan = new Scanner(System.in);
+    public static void main(String[] args) {        Scanner scan = new Scanner(System.in);
 
         String myStr = scan.nextLine();
 
         String[] useThisArray = myStr.split("");
 
-      //  code start here
-      // Koda burdan başlayin
+        boolean lengthAndEqual;
 
+        lengthAndEqual = useThisArray.length >= 1 && useThisArray[0].contains(useThisArray[useThisArray.length - 1]);
+        System.out.println(lengthAndEqual);
 
 
 
