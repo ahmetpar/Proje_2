@@ -15,7 +15,7 @@ public class removeDuplicates {
 
         Array is 1,2,2,2,3,3,3,4,4,4,5,5,5
 
-//1 2 2 2 3 3 3 4 4 4 5 5 5
+//1 2 2 2 3 3 3 4 4 4 5 5 5 (bu deneme kismi olarak yazildi pp p p pp p p)
         result should be 5
 
         NOTE: while printing the result dont use for loop
